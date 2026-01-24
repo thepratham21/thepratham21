@@ -1,5 +1,5 @@
-# 💫 About Me:
-MERN Stack Developer<br>Node.js • Express.js • React • MongoDB | DevOps & Cloud<br> 
+#  About Me:
+MERN Stack Developer<br>Node.js • Express.js • React • MongoDB | Learning DevOps & Cloud<br> 
 
 
 # 💻 Tech Stack:
