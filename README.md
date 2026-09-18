@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">MERN Stack Developer<br>Node.js • Express.js • React • MongoDB | Learning DevOps & Cloud</p>
+<p align="left">Cloud and DevOps Engineer<br>AWS • Docker • Kubernetes • Terraform </p>
 
 ###
 
